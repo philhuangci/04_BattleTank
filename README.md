@@ -3,3 +3,4 @@ An open-world head-tohead tank fight with simple Ai. terrain, and acvanced contr
 
 ## day one 
 Create the project.
+* BT03 Setting up local connection
